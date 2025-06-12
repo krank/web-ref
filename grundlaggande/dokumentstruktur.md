@@ -1,0 +1,3 @@
+# Dokumentstruktur
+
+html, head, body
